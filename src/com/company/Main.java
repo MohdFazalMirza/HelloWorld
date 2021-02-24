@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int number2;
+        int number2,number3;
         int number;
         boolean error=false;
         do{
